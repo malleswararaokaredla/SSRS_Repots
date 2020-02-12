@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Reports", "Reports\Reports.rptproj", "{A21881D3-D54E-49F3-AD08-3C8FC059A03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Debug|Any CPU.ActiveCfg = Debug
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Debug|Any CPU.Build.0 = Debug
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Debug|Any CPU.Deploy.0 = Debug
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Release|Any CPU.ActiveCfg = Release
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Release|Any CPU.Build.0 = Release
+		{A21881D3-D54E-49F3-AD08-3C8FC059A03A}.Release|Any CPU.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6CAFF2-EB5B-4D0E-A1F9-D70DC100156D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NCA_Transunion_DS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=10.180.1.8\SQL2016;Initial Catalog=NCA_PII_Staging</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a881ea83-bfcf-447a-87fa-af7d67101340</DataSourceID>
+</RptDataSource>
